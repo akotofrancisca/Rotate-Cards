@@ -5,7 +5,7 @@ body{
 .main{
   background-color: antiquewhite;
   width: 55%;
-  height: 59vh;
+  height: 59vh; 
   display: flex;
   flex-wrap: wrap;
   transform: translate(40%,35%);
